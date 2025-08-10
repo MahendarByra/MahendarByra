@@ -56,6 +56,18 @@ I enjoy turning complex ideas into working solutions — whether it’s **automa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+**ML / AI / Data Science**  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-2E77BC?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-FFAE42?style=for-the-badge&logo=openaigym&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8E44AD?style=for-the-badge&logo=opencv&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1F618D?style=for-the-badge&logo=python&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time%20Series%20Analysis-34495E?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
 **General Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -83,17 +95,6 @@ I enjoy turning complex ideas into working solutions — whether it’s **automa
 ![XML](https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=xml&logoColor=white)
 
 
-**ML / AI / Data Science**  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-2E77BC?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
-![LLMs](https://img.shields.io/badge/LLMs-FFAE42?style=for-the-badge&logo=openaigym&logoColor=black)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8E44AD?style=for-the-badge&logo=opencv&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1F618D?style=for-the-badge&logo=python&logoColor=white)
-![Time Series](https://img.shields.io/badge/Time%20Series%20Analysis-34495E?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
 **Libraries & Frameworks**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -119,6 +120,18 @@ I enjoy turning complex ideas into working solutions — whether it’s **automa
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+---
+
+## 📜 Certifications
+
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)](https://drive.google.com/file/d/1tG4OasXVfZIfEnRLCGfYsBLLNECRpHd4/view?usp=sharing)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)](https://drive.google.com/file/d/1WYZmOxgGrWnsLv3Ifcm2j0d4613wpVhN/view?usp=sharing)
+[![Python](https://img.shields.io/badge/Python_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/file/d/1jFAVMAw3dK_fvyREpvsXiSJ8LrirEfa1/view?usp=sharing)
+[![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF7F50?style=for-the-badge&logo=hackerrank&logoColor=white)](https://drive.google.com/file/d/1ohdk5Lx06zIBSfGZkYLnGVZ3YuiwM0Zg/view?usp=sharing)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://drive.google.com/file/d/14M83x1uVicE-YKpJLCB2v5Z8cS-XX-QS/view?usp=sharing)
+[![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-007396?style=for-the-badge&logo=java&logoColor=white)](https://drive.google.com/file/d/1rng9PGwcBV2ToaF9hSe-y9DRi-Y7_q_z/view?usp=sharing)
+[![Java](https://img.shields.io/badge/Java_Programming-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://drive.google.com/file/d/1SJtwzo_6X55SDf0jPYbSyjStu2IBURys/view?usp=sharing)
 
 ---
 
@@ -160,19 +173,6 @@ Real-time facial authentication system with spoof detection.
 - Used **OpenCV-based anti-spoofing** to block fake image/video attempts  
 - Designed for secure, real-world authentication scenarios
 
-
----
-## 📜 Certifications
-
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)](https://drive.google.com/file/d/1tG4OasXVfZIfEnRLCGfYsBLLNECRpHd4/view?usp=sharing)
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)](https://drive.google.com/file/d/1WYZmOxgGrWnsLv3Ifcm2j0d4613wpVhN/view?usp=sharing)
-[![Python](https://img.shields.io/badge/Python_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/file/d/1jFAVMAw3dK_fvyREpvsXiSJ8LrirEfa1/view?usp=sharing)
-[![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF7F50?style=for-the-badge&logo=hackerrank&logoColor=white)](https://drive.google.com/file/d/1ohdk5Lx06zIBSfGZkYLnGVZ3YuiwM0Zg/view?usp=sharing)
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://drive.google.com/file/d/14M83x1uVicE-YKpJLCB2v5Z8cS-XX-QS/view?usp=sharing)
-[![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-007396?style=for-the-badge&logo=java&logoColor=white)](https://drive.google.com/file/d/1rng9PGwcBV2ToaF9hSe-y9DRi-Y7_q_z/view?usp=sharing)
-[![Java](https://img.shields.io/badge/Java_Programming-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://drive.google.com/file/d/1SJtwzo_6X55SDf0jPYbSyjStu2IBURys/view?usp=sharing)
-
----
 
 ---
 

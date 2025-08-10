@@ -17,7 +17,7 @@
   <a href="[https://linkedin.com/in/ankith-mall-aa8879263](https://www.linkedin.com/in/mahendar-byra-75a93a209/)">
     <img src="https://img.shields.io/badge/LinkedIn-AnkithMall-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://github.com/AnkithMall](https://github.com/MahendarByra)">
+  <a href="[https://github.com/MahendarByra](https://github.com/MahendarByra)">
     <img src="https://img.shields.io/badge/GitHub-AnkithMall-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>

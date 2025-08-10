@@ -120,8 +120,57 @@ I enjoy turning complex ideas into working solutions — whether it’s **automa
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
+---
+
+## 🔥 Featured Projects
+
+### [🗣 Speech Emotion Detection](https://github.com/MahendarByra/Speech_Emotion_Detection)
+A multimodal speech emotion recognition system combining audio and text analysis.  
+- Used **Whisper** for speech-to-text, **BERT-base-go-emotion** for text emotion detection, and **Wav2Vec2** for audio emotion classification  
+- Achieved ~80% accuracy with **Dockerized deployment**  
+- Real-time emotion predictions via a responsive UI
+
+### [🩺 Early Detection of NAFLD in Ultrasonic Liver Images](https://github.com/MahendarByra/NAFLD_Detection)
+Deep learning pipeline for early detection of **Non-Alcoholic Fatty Liver Disease**.  
+- Applied **transfer learning, Transformers, and hybrid models** for ultrasound imaging  
+- Achieved **99.33% accuracy** with the **CCT-14 model**, surpassing benchmark results  
+- Designed for clinical diagnostic support
+
+### [📜 Log Anomaly Detection in Federated Environments](https://github.com/MahendarByra/Log_anamoly_detection)
+Privacy-preserving anomaly detection for distributed system logs.  
+- Used **BERT-based sequence classification** for anomaly identification  
+- Implemented a **fully federated learning pipeline** for decentralized training  
+- Ensures secure, client-side model updates without centralizing data
+
+### [🔄 Machine Translation (English–Telugu)](https://github.com/MahendarByra/Machine_Traanslation)
+End-to-end translation pipeline for **English-to-Telugu** text.  
+- Implemented **MarianMT** and custom-trained neural models  
+- Developed **statistical machine translation** using OpenNMT for quality comparison  
+- Optimized for natural and accurate translations
+
+### [💻 Group Chat Application in C (TCP/UDP)](https://github.com/MahendarByra/GroupChat)
+A terminal-based, multi-user chat application.  
+- Implemented **socket programming** with both TCP and UDP support  
+- Added **non-blocking sockets, I/O multiplexing, and multi-threading** for scalability  
+- Enabled efficient concurrent messaging between multiple clients
+
+### [👨‍🍳 Face Recognition with Anti-Spoofing for Chef Authentication](#)
+Real-time facial authentication system with spoof detection.  
+- Integrated **face_recognition** library with **SQLite** for chef registration  
+- Used **OpenCV-based anti-spoofing** to block fake image/video attempts  
+- Designed for secure, real-world authentication scenarios
 
 
+---
+## 📜 Certifications
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MahendarByra&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahendarByra&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahendarByra&theme=tokyonight" />
 </p>
 
 ---

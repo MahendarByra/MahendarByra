@@ -163,6 +163,17 @@ Real-time facial authentication system with spoof detection.
 
 ---
 ## 📜 Certifications
+
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)](https://drive.google.com/file/d/1tG4OasXVfZIfEnRLCGfYsBLLNECRpHd4/view?usp=sharing)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)](https://drive.google.com/file/d/1WYZmOxgGrWnsLv3Ifcm2j0d4613wpVhN/view?usp=sharing)
+[![Python](https://img.shields.io/badge/Python_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/file/d/1jFAVMAw3dK_fvyREpvsXiSJ8LrirEfa1/view?usp=sharing)
+[![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF7F50?style=for-the-badge&logo=hackerrank&logoColor=white)](https://drive.google.com/file/d/1ohdk5Lx06zIBSfGZkYLnGVZ3YuiwM0Zg/view?usp=sharing)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://drive.google.com/file/d/14M83x1uVicE-YKpJLCB2v5Z8cS-XX-QS/view?usp=sharing)
+[![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-007396?style=for-the-badge&logo=java&logoColor=white)](https://drive.google.com/file/d/1rng9PGwcBV2ToaF9hSe-y9DRi-Y7_q_z/view?usp=sharing)
+[![Java](https://img.shields.io/badge/Java_Programming-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://drive.google.com/file/d/1SJtwzo_6X55SDf0jPYbSyjStu2IBURys/view?usp=sharing)
+
+---
+
 ---
 
 ## 📊 GitHub Stats & Activity

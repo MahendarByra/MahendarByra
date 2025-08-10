@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.comMahendarByra/MahendarByra/main/profile.png" 
+  <img src="https://raw.githubusercontent.com/MahendarByra/MahendarByra/main/profile.png" 
        alt="Mahendar Byra Banner"
        style="width: 50%; height: auto; border-radius: 10px;">
 </p>

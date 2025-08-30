@@ -152,7 +152,7 @@ Custom **MarianMT** and statistical models for accurate English–Telugu transla
 ### [💻 Group Chat in C (TCP/UDP)](https://github.com/MahendarByra/GroupChat)  
 Terminal-based multi-user chat with **socket programming** and multi-threading.
 
-### [👨‍🍳 Face Recognition with Anti-Spoofing](#)  
+### [👨‍🍳 Face Recognition with Anti-Spoofing](https://github.com/MahendarByra/Face_Recognition)  
 Real-time facial authentication with **OpenCV** spoof detection for secure chef verification.
 
 ---

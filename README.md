@@ -23,7 +23,7 @@
   <a href="https://medium.com/@mahendarbyra">
     <img src="https://img.shields.io/badge/Medium-MahendarByra-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://mahendarbyra.github.io/developerFolio/">
+  <a href="https://portfolio-avv.pages.dev">
     <img src="https://img.shields.io/badge/Portfolio-MahendarByra-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>

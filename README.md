@@ -163,9 +163,9 @@ Real-time facial authentication with **OpenCV** spoof detection for secure chef 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MahendarByra&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahendarByra&layout=compact&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahendarByra&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnkithMall&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkithMall&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkithMall&theme=tokyonight" />
 </p>
 
 ---
